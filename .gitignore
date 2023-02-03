@@ -1,0 +1,6 @@
+node_modules
+build
+.env
+.encryptedKey.json
+SimpleStorage_sol_*
+.notes.md
